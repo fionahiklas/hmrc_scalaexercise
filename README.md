@@ -30,3 +30,5 @@ First of all install the Scala language plugin.
 Create a new project from sources and select the build.sbt file.
 
 Select a custom SBT and navigate to the installed SBT under /opt
+
+
